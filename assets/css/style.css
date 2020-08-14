@@ -1,0 +1,32 @@
+textarea {
+  resize: none;
+}
+
+.past-hour {
+  background-color: red;
+  border-color: black;
+}
+
+.present-hour {
+  background-color: yellow;
+  border-color: white;
+}
+
+.future-hour {
+  background-color: green;
+  bordere-color: yellow;
+}
+
+button {
+  background-color: rgb(110, 175, 6);
+  border-radius: 0px 5px 5px 0px;
+}
+
+header {
+  border-bottom-width: 10px;
+  text-color: white;
+}
+
+button {
+  font-size: 2em;
+}
